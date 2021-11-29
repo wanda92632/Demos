@@ -1,4 +1,4 @@
-package jianzhiOffer;
+package com.wanda.demos.jianzhiOffer;
 
 /**
  * 在二位数组中找到相等的数

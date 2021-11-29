@@ -1,4 +1,4 @@
-package arithmeticCache;
+package com.wanda.demos.arithmeticCache;
 
 import java.util.Scanner;
 

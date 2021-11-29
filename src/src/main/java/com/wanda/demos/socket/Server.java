@@ -1,6 +1,5 @@
-package socket;
+package com.wanda.demos.socket;
 
-import javax.xml.ws.Service;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

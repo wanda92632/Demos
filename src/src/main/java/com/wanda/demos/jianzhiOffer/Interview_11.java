@@ -1,4 +1,4 @@
-package jianzhiOffer;
+package com.wanda.demos.jianzhiOffer;
 
 /**
  * @author ZhiFei

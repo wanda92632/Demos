@@ -1,4 +1,4 @@
-package thread.poolThreadExecutorTest;
+package com.wanda.demos.thread.poolThreadExecutorTest;
 
 import java.util.concurrent.RejectedExecutionHandler;
 import java.util.concurrent.ThreadPoolExecutor;

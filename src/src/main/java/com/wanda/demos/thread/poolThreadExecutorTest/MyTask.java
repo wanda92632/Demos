@@ -1,4 +1,4 @@
-package thread.poolThreadExecutorTest;
+package com.wanda.demos.thread.poolThreadExecutorTest;
 
 public class MyTask implements Runnable {
     private String name;

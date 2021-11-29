@@ -1,4 +1,4 @@
-package jianzhiOffer;
+package com.wanda.demos.jianzhiOffer;
 
 /**
  * 去掉字符串中的空格

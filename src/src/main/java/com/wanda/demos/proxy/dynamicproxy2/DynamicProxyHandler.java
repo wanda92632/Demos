@@ -1,4 +1,4 @@
-package proxy.dynamicproxy2;
+package com.wanda.demos.proxy.dynamicproxy2;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;

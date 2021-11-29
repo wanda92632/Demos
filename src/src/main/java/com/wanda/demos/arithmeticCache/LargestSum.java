@@ -1,4 +1,4 @@
-package arithmeticCache;
+package com.wanda.demos.arithmeticCache;
 
 /**
  * F(i)=max(F(i-1)+array[i],array[i])

@@ -1,4 +1,4 @@
-package thread.EvenChecker;
+package com.wanda.demos.thread.EvenChecker;
 
 
 import java.util.concurrent.ExecutorService;

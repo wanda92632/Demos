@@ -1,4 +1,4 @@
-package thread;
+package com.wanda.demos.thread;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutionException;

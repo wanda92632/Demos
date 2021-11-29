@@ -1,4 +1,4 @@
-package jianzhiOffer;
+package com.wanda.demos.jianzhiOffer;
 
 public class JianZhi12 {
     public static void main(String[] args) {

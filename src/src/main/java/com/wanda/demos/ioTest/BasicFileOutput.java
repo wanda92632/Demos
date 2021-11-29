@@ -1,4 +1,4 @@
-package ioTest;
+package com.wanda.demos.ioTest;
 
 import java.io.BufferedReader;
 import java.io.IOException;

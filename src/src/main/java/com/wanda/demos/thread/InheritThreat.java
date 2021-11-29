@@ -1,4 +1,4 @@
-package thread;
+package com.wanda.demos.thread;
 
 /**
  * @author ZhiFei

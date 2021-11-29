@@ -1,4 +1,4 @@
-package socket;
+package com.wanda.demos.socket;
 
 import java.io.*;
 import java.net.*;

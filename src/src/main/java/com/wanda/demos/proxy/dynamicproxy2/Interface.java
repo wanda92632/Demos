@@ -1,4 +1,4 @@
-package proxy.dynamicproxy2;
+package com.wanda.demos.proxy.dynamicproxy2;
 
 /**
  * 代理接口

@@ -1,4 +1,4 @@
-package arithmetic.sort;
+package com.wanda.demos.arithmetic.sort;
 
 public class Main {
 

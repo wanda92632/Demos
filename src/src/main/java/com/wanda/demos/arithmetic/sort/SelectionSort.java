@@ -1,4 +1,4 @@
-package arithmetic.sort;
+package com.wanda.demos.arithmetic.sort;
 
 /**
  * 选择排序 时间复杂度 O(n^2) 额外空间复杂度 O(1)

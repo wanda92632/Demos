@@ -1,4 +1,4 @@
-package arithmetic.sort;
+package com.wanda.demos.arithmetic.sort;
 
 import java.util.Random;
 

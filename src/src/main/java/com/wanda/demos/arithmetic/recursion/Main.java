@@ -1,4 +1,4 @@
-package arithmetic.recursion;
+package com.wanda.demos.arithmetic.recursion;
 
 /**
  * @Author 知非

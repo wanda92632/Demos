@@ -1,4 +1,4 @@
-package proxy.staticproxy;
+package com.wanda.demos.proxy.staticproxy;
 
 /**
  * 参考人员接口

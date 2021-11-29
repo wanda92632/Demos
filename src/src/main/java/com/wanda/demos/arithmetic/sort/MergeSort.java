@@ -1,4 +1,4 @@
-package arithmetic.sort;
+package com.wanda.demos.arithmetic.sort;
 
 /**
  * 归并排序 时间复杂度(N*logN)，额外空间复杂度O(N)
